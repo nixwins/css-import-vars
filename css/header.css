@@ -1,0 +1,13 @@
+.header__title {
+  font-size: 150px;
+  color: var(--main-text-color);
+}
+
+.title {
+  font-size: 300px;
+}
+
+p {
+  color: var(--main-text-color);
+  font-size: 30px;
+}
